@@ -1,2 +1,2 @@
-# MyFirst
-This is my first repository in GitHub
+# Versión 1
+Esta es una edición de prueba para GitHub
